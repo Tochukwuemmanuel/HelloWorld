@@ -1,3 +1,20 @@
 God please help me
 i am progressing
-finally i think God help me in achieving this
+finally i thank God for helping me in achieving this.
+steps
+1. $ git config --global user.name "your username" note-not in open and close parenthesis press enter
+ /* to test it - $ git config user.name press enter */ it should print out you username
+2. $ git config --global user.email "your email"  press enter
+/* to test it - $ git config --global user.email press enter it should print out your email
+3. $ git init press enter
+4. $ git clone "your repository link" press enter
+5. $ git status press enter
+/* to add a file/document */
+6. $ touch "name of doc/file".txt press enter
+7. $ git status press enter
+8. $ git add "name of file/doc.txt press enter
+9. $ git status press enter
+10. $ git merge press enter
+11. git commit -m modified "name of file/doc".txt
+12. git push origin master
+you have succesfully used version control
